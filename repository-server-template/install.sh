@@ -10,4 +10,4 @@
 # 6. Edit /etc/crontab file:
 # ======================================================================================================================
 
-echo "Ready to start installation of JIAJT"
+echo "Prepare to install jjvmm repository server..."
